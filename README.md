@@ -1,8 +1,10 @@
 # IN6227 Data Mining: Assignment 2 - Association Rule Mining Model Comparison
 
 **Course**: IN6227 Data Mining
-**\nName**: Gerry Julian
-**\nAssignment**: Assignment 2 - Association Rule Mining Model Comparison
+
+**Name**: Gerry Julian
+
+**Assignment**: Assignment 2 - Association Rule Mining Model Comparison
 
 ***
 
